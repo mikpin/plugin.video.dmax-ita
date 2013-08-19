@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.dmax-italy" name="DMAX Ita" version="0.0.4" provider-name="dethfeet">
+<addon id="plugin.video.dmax-ita" name="DMAX Ita" version="0.0.4" provider-name="mik">
   <requires>
 	<import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.pyamf" version="0.6.1"/>
@@ -14,11 +14,11 @@
 	<summary lang="de">DMAX Videotheke</summary>
     <description lang="en">DMAX (italian television)</description>
 	<description lang="de">DMAX Videotheke</description>
+	<description lang="it">Videoteca DMAX basata sul lavoro degli amici della versione tedesca</description>
     <platform>all</platform>
     <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-	<forum>http://www.xbmcnerds.com/index.php?page=Thread&amp;threadID=11119</forum>
-	<website>https://github.com/dethfeet/plugin.video.dmax</website>
-	<source>https://github.com/dethfeet/plugin.video.dmax</source>
+	<website>https://github.com/mikxbmc/plugin.video.dmax-ita</website>
+	<source>https://github.com/mikkxbmc/plugin.video.dmax-ita</source>
 	<email>dethfeet@qip.ru</email>
   </extension>
 </addon>
